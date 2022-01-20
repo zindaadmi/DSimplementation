@@ -1,5 +1,5 @@
 #implementation of Basic Data structures in PHP
-#<ol><li>Implementation of Queue</li>
+<ol><li>Implementation of Queue</li>
 ___
 ###Basic implementation of Queue for better DS understanding in PHP
 ___
@@ -9,3 +9,4 @@ ___
 <li>Which will call Queue class present in src folder
 <li> Give command "php index.php"</li>
 </ul>
+<ol><li>Implementation of Stack</li>
