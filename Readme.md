@@ -9,4 +9,3 @@ ___
 <li>Which will call Queue class present in src folder
 <li> Give command "php index.php"</li>
 </ul>
-<ol><li>Implementation of Stack</li>
