@@ -1,13 +1,17 @@
 <?php
-include("src/Queue.php");
+include("src/Linkedlist.php");
 
+$my_list = new MyLinkedList();
 
-$queue = new Queue(10);
-$queue->enqueue(500);
-$queue->enqueue(20);
-$queue->enqueue(30);
-$queue->printQueue();
-print("Dequeued element: " . $queue->dequeue() . "\n");
-$queue->printQueue();
-$queue->enqueue(40);
-$queue->enqueue(50);
+$my_list->insertAtFirst(20);
+$my_list->insertAtLast(40);
+$my_list->printList();
+$my_list->insertAtKthIndex(30, 1);
+$my_list->printList();
+$my_list->insertAtKthIndex(50, 3);
+$my_list->printList();
+$my_list->insertAtKthIndex(111, 3);
+$my_list->printList();
+$my_list->delete(111);
+$my_list->printList();
+

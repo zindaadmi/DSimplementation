@@ -1,21 +1,29 @@
+DATA STRUCTURES IN PHP
+---
 
-#implementation of Basic Data structures in PHP
+# Implementations 
+## SingleLinkedlist
+### Elements:
+#### Head
+#### Data
+#### next
+#### Null
 
-<ol><li>Implementation of Queue</li>
+### Operations
+-Insertion
+-Deletion
+-Traversal/Printing
+###Insertion:
+#### Inserting an element at the beginning of the list
+#### Inserting An element at the end of the list
+#### Inserting an element anywhere in the list
+ 
+### Deletion:
+#### Deleting an element at the beginning of the list
+#### Deleting an element at the end of the list
+#### Deleting an element anywhere in the list
 
-  
-___
+### Printing:
+#### Printing the Linked list 
 
-
-###Basic implementation of Queue for better DS understanding in PHP
-  
-___
-
-
-###TO RUN
-
-<ul>
-<li>Simply give inputs in index.php
-<li>Which will call Queue class present in src folder
-<li> Give command "php index.php"</li>
-</ul>
+### Syntax: php index.php
