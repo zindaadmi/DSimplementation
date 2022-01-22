@@ -2,6 +2,16 @@ DATA STRUCTURES IN PHP
 ---
 
 # Implementations 
+
+
+---
+## QUEUE
+
+## Stack
+ 
+
+---
+
 ## SingleLinkedlist
 ### Elements:
 #### Head
@@ -27,3 +37,7 @@ DATA STRUCTURES IN PHP
 #### Printing the Linked list 
 
 ### Syntax: php index.php
+
+---
+
+## Doubly Linked List
